@@ -18,6 +18,6 @@ cd YOUR_CATKIN_WS
 . /opt/ros/VERSION/setup.bash
 catkin build  # OR catkin_make
 ```
-L’errore è nel catkin build (foto allegata)
+L’errore appare quando si esegue: catkin build (foto allegata)
 
 ![error1](https://github.com/DavideBu/teamWork/blob/main/error1.png)
