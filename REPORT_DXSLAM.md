@@ -21,3 +21,7 @@ catkin build  # OR catkin_make
 L’errore appare quando si esegue: catkin build (foto allegata)
 
 ![error1](https://github.com/DavideBu/teamWork/blob/main/error1.png)
+
+Il problema è nel modulo cv_bridge che nella documentazione è spiegato servire per ROS melodic o versioni precedenti.
+Sembra proprio un errore nel codice.
+Non so se il resto funzioni perché questo errore interrompe completamente la build.
