@@ -18,7 +18,7 @@ And launch dxslam_ros in another terminal, for example.......
 Il mio problema è nell'esecuzione di feature extraction:
 ![new_error](https://github.com/DavideBu/teamWork/blob/main/new_error.PNG)
 
-Penso che il problema sia legato al modello di Tensorflow ma credo anche di non aver sbagliato niente nel build di Deep Features. 
+
 Ho due idee di quale possa essere il problema:
 1) Non ho mai runnato feature extraction. Citando la documentazione di deep_features:
 ### Feature extraction
