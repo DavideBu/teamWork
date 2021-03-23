@@ -1,4 +1,4 @@
-# REPORT UPDATED
+# UPDATED REPORT 
 Sono riuscito a superare l'errore legato a cv-bridge.
 E sono arrivato finalmente al momento di esecuzione con ROS.
 Qui però ricominciano i problemi:
