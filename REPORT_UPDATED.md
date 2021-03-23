@@ -6,7 +6,7 @@ La documentazione di DXSLAM_ROS dice:
 
 ### The issue
 Il mio problema è nell'esecuzione di feature extraction:
-![new_error](https://github.com/DavideBu/teamWork/blob/main/new_error.PNG)
+![error](https://github.com/DavideBu/teamWork/blob/main/new_error.PNG)
 
 
 
