@@ -34,6 +34,7 @@ Il run di feature_extraction funziona:
 ![cattura](https://github.com/DavideBu/teamWork/blob/main/Cattura.PNG)
 
 ma il secondo comando sul lancio di dxslam_ros mi da il seguente errore:
+
 ![error](https://github.com/DavideBu/teamWork/blob/main/d.PNG)
 
 Penso che il problema sia legato a una mia mancanza di conoscenza su ROS e che possa essere risolto velocemente con l'affiancamento di un membro senior.
