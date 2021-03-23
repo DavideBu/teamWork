@@ -30,7 +30,6 @@ When succeeded, you should be able to see live tracking results in the ORB_SLAM2
 
 Il run di feature_extraction funziona:
 
-
 ![cattura](https://github.com/DavideBu/teamWork/blob/main/Cattura.PNG)
 
 ma il secondo comando sul lancio di dxslam_ros mi da il seguente errore:
